@@ -1,5 +1,9 @@
 # Xsuenot
 
+<p align="center">
+  <img width="250" alt="Coding animation" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
 Building calm, focused software.
 
 I am currently working on [Satori](https://github.com/Xsuenot/Satori), a focus and mindfulness app across Flutter and WeChat Mini Program.
@@ -23,4 +27,3 @@ A cross-platform focus companion designed around incense, rain, music, and mindf
 
 - Repository: [Xsuenot/Satori](https://github.com/Xsuenot/Satori)
 - Focus: mobile app, mini program, cloud sync, local-first experience
-
