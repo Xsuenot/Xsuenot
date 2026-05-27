@@ -4,20 +4,18 @@
   <img width="250" alt="Coding animation" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-Building calm, focused software.
+When you have a strong curiosity toward something, it can give you clues to youer deepest passions.
 
-I am currently working on [Satori](https://github.com/Xsuenot/Satori), a focus and mindfulness app across Flutter and WeChat Mini Program.
+I am studying at BUPT.
 
 ## Current Work
 
-- Satori: focus timer, ambient sound, statistics, and cloud sync
 - Flutter app development
 - WeChat Mini Program development
-- Product design for quiet, distraction-light tools
 
 ## Stack
 
-`Dart` / `Flutter` · `TypeScript` · `WeChat Mini Program` · `Supabase`
+`C++` · `Python` · `JAVA` · `Dart` / `Flutter` · `TypeScript` · `WeChat Mini Program` · `Supabase`
 
 ## Featured Project
 
